@@ -1,0 +1,11 @@
+.containner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: aqua;
+}
+.image{
+    width: 500px;
+    background-color: black;
+}
